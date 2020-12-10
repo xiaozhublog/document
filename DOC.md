@@ -53,12 +53,10 @@
 ├── .eslintrc.js               # eslint 配置项
 ├── .gitignore                 # git 配置项
 ├── babel.config.js            # Babel 配置
-├── DOC.md                     # 说明文档
 ├── jsconfig.json              # JavaScript服务提供的功能选项
 ├── package-lock.json          # 安装的各个npm package的具体来源和版本号
 ├── package.json               # package.json
 ├── README.md                  # 项目说明
-├── UPDATElOG.md               # 更新日志
 └── vue.config.js              # vue-cli 配置
 ````
 # 三、风格指南
