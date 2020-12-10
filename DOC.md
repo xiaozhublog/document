@@ -250,7 +250,8 @@ export default {
 * [路由懒加载](https://router.vuejs.org/zh/guide/advanced/lazy-loading.html)  
 路由详情说明会在路由文件中，详细说明。
 ````JavaScript
-//当打包构建应用时，JavaScript 包会变得非常大，影响页面加载。如果我们能把不同路由对应的组件分割成不同的代码块，然后当路由被访问的时候才加载对应组件，这样就更加高效了。
+// 当打包构建应用时，JavaScript 包会变得非常大，影响页面加载。
+// 如果我们能把不同路由对应的组件分割成不同的代码块，然后当路由被访问的时候才加载对应组件，这样就更加高效了。
 const routes = [
   {
     path: '/',
